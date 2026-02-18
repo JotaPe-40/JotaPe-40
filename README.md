@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**JotaPe-40/JotaPe-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm JotaPe-40, welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my featured projects:
+
+- **[Project 1](https://github.com/JotaPe-40/project1)** - Description of project 1
+- **[Project 2](https://github.com/JotaPe-40/project2)** - Description of project 2
+- **[Project 3](https://github.com/JotaPe-40/project3)** - Description of project 3
+
+## 💻 Technologies & Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📫 How to Reach Me
+
+- GitHub: [@JotaPe-40](https://github.com/JotaPe-40)
+
+---
+
+⭐️ From [JotaPe-40](https://github.com/JotaPe-40)
