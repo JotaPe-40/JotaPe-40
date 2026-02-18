@@ -3,6 +3,7 @@
 ## 📚 Finished Projects
 - [TCP 2025-2 Final - Grupo 03](https://github.com/SW-Engineering-Courses-Karina-Kohl/tcp-20252-final-grupo_03) - Recreation of "Pacman" in Java
 - [AlgProg 2023-1 Final](https://github.com/JotaPe-40/os_labirintos_do_inf) - Remodeling of "Laberintos del Saber" in C with Raylib
+- [FBD 2025-2 Final](https://github.com/Alef-Pasqualotto/trab_fbd) - Databank consults project in SQL
 
 <!--
 **JotaPe-40/JotaPe-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
