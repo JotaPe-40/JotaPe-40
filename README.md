@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## 📚 Finished Projects
+- [ES 2026-1 PortalIntegradorCbiot](https://github.com/JotaPe-40/PortalIntegradorCbiot) - Criação do portal web do Instituto de Biociências da Ufrgs
 - [TCP 2025-2 Final - Grupo 03](https://github.com/SW-Engineering-Courses-Karina-Kohl/tcp-20252-final-grupo_03) - Recreation of "Pacman" in Java
 - [AlgProg 2023-1 Final](https://github.com/JotaPe-40/os_labirintos_do_inf) - Remodeling of "Laberintos del Saber" in C with Raylib
 - [FBD 2025-2 Final](https://github.com/Alef-Pasqualotto/trab_fbd) - Databank consults project in SQL
